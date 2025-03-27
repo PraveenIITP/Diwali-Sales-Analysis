@@ -28,7 +28,7 @@ The dataset contains **11,251** records with columns such as:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/PraveenIITP/Diwali-Sales-Analysis.git
+   git clone https://github.com/PraveenIITP/Diwali-Sales-Analysis
    ```
 2. Install dependencies:
    ```bash
@@ -42,6 +42,6 @@ The dataset contains **11,251** records with columns such as:
 
 ## 📬 Contact
 For any queries or collaborations, feel free to connect!
-- **LinkedIn:** [Praveen Kumar]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/praveen-kumar-87b075287/))
+- **LinkedIn:** ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/praveen-kumar-87b075287/))
 - **Email:** kumarpraveen.iitp@gmail.com
 
