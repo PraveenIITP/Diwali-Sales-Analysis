@@ -42,6 +42,6 @@ The dataset contains **11,251** records with columns such as:
 
 ## 📬 Contact
 For any queries or collaborations, feel free to connect!
-- **LinkedIn:** ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/praveen-kumar-87b075287/))
+- **LinkedIn:** ([Praveen Kumar](https://www.linkedin.com/in/praveen-kumar-87b075287/))
 - **Email:** kumarpraveen.iitp@gmail.com
 
